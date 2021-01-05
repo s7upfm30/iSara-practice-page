@@ -1,0 +1,264 @@
+.h-box {
+  width: auto;
+  margin: 0;
+}
+.h-small-logo .h-image {
+  left: 20px;
+}
+.h-right-text p .h-btn {
+  font-size: 12px;
+} 
+.h-text-box {
+  top: 20%;
+  left: 36%;
+  width: auto;
+  margin: 0 auto;
+}
+.h-left-text p {
+  top: 58%;
+  left: 160px;
+  font-size: 12px;
+}
+.h-right-text p {
+  font-size: 12px;
+}
+.sp-icon-box {
+  
+}
+.p-large {
+  font-size: 24px;
+  line-height: 38px;
+}
+.p-small {
+  font-size: 16px;
+  line-height: 18px;
+}
+.sec-1-box {
+  height: 465px;
+}
+.sec-1-top {
+  font-size: 16px;
+}
+.border-text {
+  font-size: 14px;
+}
+.btn-box {
+  margin: 15px 82px;
+  padding: 34px 120px;
+}
+.btn p {
+  font-size: 18px;
+}
+.sec-1-bottom {
+  padding: 20px 0;
+  font-size: 18px;
+}
+.sec-2-h2 h2 {
+  font-size: 24px;
+}
+.section-2 p {
+  font-size: 16px;
+}
+.sec-3-h2 h2 {
+  font-size: 24px;
+}
+.sec-3-p {
+  font-size: 16px;
+}
+.box-p {
+  font-size: 16px;
+}
+.main-box {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.sec-4-box {
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.sec-4-box:first-of-type {
+  margin-top: 30px;
+}
+.p-top {
+  font-size: 14px;
+}
+.p-middle {
+  font-size: 12px;
+}
+.p-bottom {
+  font-size: 14px;
+}
+.section-4 h3 {
+  font-size: 24px;
+}
+.sec-4-p {
+  font-size: 16px;
+}
+.section-5 {
+  padding: 40px 0;
+}
+.sec-5-p {
+  font-size: 16px;
+  line-height: 26px;
+}
+.sec-6-h2 {
+  font-size: 24px;
+}
+.top-p {
+  font-size: 16px;
+}
+.sec-6-image {
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+.bottom-p {
+  font-size: 14px;
+}
+.section-7 {
+  padding: 30px 50px 45px;
+}
+.sec-7-h2 .h2-small {
+  font-size: 16px;
+}
+.sec-7-h2 .h2-big {
+  font-size: 24px;
+}
+.small-box-2 {
+  text-align: center;
+}
+.sec-7-image {
+  width: 300px;
+  height: 180px;
+}
+.p-big {
+  margin: 10px 0 14px;
+  font-size: 16px;
+}
+.sec-7-p {
+  margin: 0 15px;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+}
+.sec-7-h3 {
+  font-size: 24px;
+}
+.sec-7-big {
+  font-size: 16px;
+}
+.sec-7-small {
+  font-size: 14px;
+  line-height: 24px;
+}
+.p-bottom-2 {
+  font-size: 12px;
+  line-height: 19px;
+}
+.sec-8-h4 {
+  font-size: 24px;
+}
+.sec-8-p {
+  font-size: 14px;
+}
+.sec-8-box {
+  margin: 0 25px;
+}
+.small-box-3 {
+  width: auto;
+  height: auto;
+}
+.small-box-top {
+  font-size: 14px;
+}
+.small-box-name {
+  font-size: 14px;
+}
+.small-box-p2 {
+  font-size: 14px;
+  line-height: 22px;
+}
+.circle-p {
+  font-size: 20px;
+}
+.sec-9-h2 {
+  font-size: 18px;
+}
+.sec-10-h3 {
+  font-size: 24px;
+}
+.p-top-bold {
+  font-size: 14px;
+}
+.p-small-2 {
+  font-size: 12px;
+}
+.section-10 {
+  padding: 40px 0 10px;
+}
+.float-image {
+  width: 33%;
+  height: auto;
+}
+.blue-sec-text {
+  font-size: 16px;
+  line-height: 26px;
+}
+.section-13 {
+  padding: 70px 25px 60px;
+}
+.sec-13-box {
+  margin-left: 3%;
+}
+.sec-13-h3 {
+  font-size: 24px;
+}
+.sec-13-small-p {
+  padding: 25px 0 18px;
+  font-size: 12px;
+  line-height: 19px;
+}
+.sec-13-list {
+  font-size: 14px;
+  line-height: 22px;
+}
+.sec-13-big-p {
+  font-size: 16px;
+}
+.sec-15-top-large {
+  font-size: 24px;
+}
+.sec-15-top-p {
+  font-size: 16px;
+  line-height: 26px;
+}
+.sec-15-border-large {
+  font-size: 24px;
+}
+.sec-15-bottom-p {
+  font-size: 16px;
+  line-height: 26px;
+}
+.form {
+  padding: 0 15%;
+}
+.form-h2 {
+  font-size: 24px;
+}
+.form-p {
+  font-size: 14px;
+}
+.section-17 {
+  padding: 60px 5% 55px;
+}
+.sec-17-h2 {
+  font-size: 24px;
+}
+.sec-17-label {
+  font-size: 16px;
+}
+.sec-17-menu li {
+  font-size: 14px;
+  line-height: 22px;
+}
