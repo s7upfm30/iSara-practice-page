@@ -739,6 +739,7 @@ body{
 }
 .mini-box {
   display: flex;
+  align-items:  flex-start;
   width: 65%;
   height: auto;
   margin: 40px 0;
